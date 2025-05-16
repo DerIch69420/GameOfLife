@@ -1,7 +1,7 @@
 local love = require("love")
 
 local screenWidth, screenHeight
-local cellSize = 5
+local cellSize = 4
 local gridWidth, gridHeight
 local grid, nextGrid
 
